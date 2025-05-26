@@ -5,4 +5,4 @@ E25-A13-Exemple2-Repo
 - faire un commit
 - collaborer.
 - Projet: template kanban, crée issue, branche, commit, pull request, merge ... issue sera (close)
-- push pull pour communieur une le client 
+- push pull pour communiqueur avec le client 
